@@ -1,0 +1,1815 @@
+C:\Users\joaco\AppData\Local\Temporary Projects\BARC\bin\Debug\BARC.exe
+C:\Users\joaco\AppData\Local\Temporary Projects\BARC\bin\Debug\BARC.pdb
+C:\Users\joaco\AppData\Local\Temporary Projects\BARC\bin\Debug\BARC.xml
+C:\Users\joaco\AppData\Local\Temporary Projects\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\joaco\AppData\Local\Temporary Projects\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\joaco\AppData\Local\Temporary Projects\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\joaco\AppData\Local\Temporary Projects\BARC\obj\x86\Debug\BARC.exe
+C:\Users\joaco\AppData\Local\Temporary Projects\BARC\obj\x86\Debug\BARC.xml
+C:\Users\joaco\AppData\Local\Temporary Projects\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\joaco\Desktop\Visual Studio\BARC\BARC\obj\x86\Debug\BARC.exe
+C:\Users\joaco\Desktop\Visual Studio\BARC\BARC\obj\x86\Debug\BARC.xml
+C:\Users\joaco\Desktop\Visual Studio\BARC\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\joaco\Desktop\Visual Studio\BARC\BARC\bin\Debug\BARC.exe
+C:\Users\joaco\Desktop\Visual Studio\BARC\BARC\bin\Debug\BARC.pdb
+C:\Users\joaco\Desktop\Visual Studio\BARC\BARC\bin\Debug\BARC.xml
+C:\Users\joaco\Desktop\Visual Studio\BARC\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\joaco\Desktop\Visual Studio\BARC\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\joaco\Desktop\Visual Studio\BARC\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\joaco\Desktop\Visual Studio\BARC\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\joaco\Desktop\Visual Studio\BARC\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\agestion\Desktop\BARC\BARC\BARC\obj\x86\Debug\BARC.exe
+C:\Users\agestion\Desktop\BARC\BARC\BARC\obj\x86\Debug\BARC.xml
+C:\Users\agestion\Desktop\BARC\BARC\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\agestion\Desktop\BARC\BARC\BARC\bin\Debug\BARC.exe
+C:\Users\agestion\Desktop\BARC\BARC\BARC\bin\Debug\BARC.pdb
+C:\Users\agestion\Desktop\BARC\BARC\BARC\bin\Debug\BARC.xml
+C:\Users\agestion\Desktop\BARC\BARC\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\agestion\Desktop\BARC\BARC\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\agestion\Desktop\BARC\BARC\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\agestion\Desktop\BARC\BARC\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\agestion\Desktop\BARC\BARC\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\agestion\Desktop\BARC\BARC\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\agestion\Desktop\BARC\BARC\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\agestion\Desktop\BARC\BARC\BARC\obj\x86\Debug\BARC.Socios.resources
+E:\ \BARC\BARC\BARC\obj\x86\Debug\BARC.exe
+E:\ \BARC\BARC\BARC\obj\x86\Debug\BARC.xml
+E:\ \BARC\BARC\BARC\obj\x86\Debug\BARC.pdb
+E:\ \BARC\BARC\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ \BARC\BARC\BARC\obj\x86\Debug\BARC.Login.resources
+E:\ \BARC\BARC\BARC\obj\x86\Debug\BARC.Main.resources
+E:\ \BARC\BARC\BARC\obj\x86\Debug\BARC.Socios.resources
+E:\ \BARC\BARC\BARC\obj\x86\Debug\BARC.splash.resources
+E:\ \BARC\BARC\BARC\obj\x86\Debug\BARC.Resources.resources
+E:\ \BARC\BARC\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ \BARC\BARC\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ \BARC\BARC\BARC\bin\Debug\BARC.exe
+E:\ \BARC\BARC\BARC\bin\Debug\BARC.pdb
+E:\ \BARC\BARC\BARC\bin\Debug\BARC.xml
+E:\ \BARC\BARC\BARC\obj\x86\Debug\BARC.frmDataSocios.resources
+E:\ \BARC\BARC\BARC\obj\x86\Debug\BARC.frmSocioBusqueda.resources
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\BARC.exe
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\BARC.xml
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\agestion\Desktop\BARC\BARC\bin\Debug\BARC.exe
+C:\Users\agestion\Desktop\BARC\BARC\bin\Debug\BARC.pdb
+C:\Users\agestion\Desktop\BARC\BARC\bin\Debug\BARC.xml
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\BARC.frmDataSocios.resources
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\agestion\Desktop\BARC\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.exe
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.xml
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\joaco\Desktop\BARC\BARC\bin\Debug\BARC.exe
+C:\Users\joaco\Desktop\BARC\BARC\bin\Debug\BARC.pdb
+C:\Users\joaco\Desktop\BARC\BARC\bin\Debug\BARC.xml
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\joaco\Desktop\BARC\BARC\bin\Debug\BARC.exe.config
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\joaco\Desktop\BARC\BARC\obj\x86\Debug\BARC.frmBarcBox.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\bin\Debug\BARC.exe.config
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\bin\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\bin\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\bin\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.frmBarcBox.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\bin\Debug\BARC.exe.config
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.exe
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.xml
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\bin\Debug\BARC.exe
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\bin\Debug\BARC.pdb
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\bin\Debug\BARC.xml
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\agestion\Desktop\BARC 17-09\BARC\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\bin\Debug\BARC.exe.config
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.exe
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.xml
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.pdb
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\bin\Debug\BARC.exe
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\bin\Debug\BARC.pdb
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\bin\Debug\BARC.xml
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.Login.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.Main.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.splash.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (no tocar)\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.exe.config
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.exe
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.xml
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.pdb
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.exe
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.pdb
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.xml
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Login.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Main.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.splash.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \Visual Studio\Sistema BARC Ult Act 24-09\Sistema BARC Ult Act 23-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.exe.config
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.exe
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.xml
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.exe
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.pdb
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.xml
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\agestion\Desktop\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.exe.config
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.exe
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.xml
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.pdb
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Login.resources
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Main.resources
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.splash.resources
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.exe
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.pdb
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\bin\Debug\BARC.xml
+D:\ \Visual Studio\Sistema BARC 25-09\BARC Repositorio Final Act 23-09 (TOCAR)\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\bin\Debug\BARC.exe.config
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.exe
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.xml
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.pdb
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\bin\Debug\BARC.exe
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\bin\Debug\BARC.pdb
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\bin\Debug\BARC.xml
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Login.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Main.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.splash.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \Visual Studio\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\bin\Debug\BARC.exe.config
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.exe
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.xml
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\bin\Debug\BARC.exe
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\bin\Debug\BARC.pdb
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\bin\Debug\BARC.xml
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\agestion\Desktop\Sistema BARC 30-09\Sistema BARC 30-09\BARC Repositorio Final Act 30-09 (TOCAR)\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ \BARC 10-10\BARC 10-10\BARC\bin\Debug\BARC.exe.config
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.exe
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.xml
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.pdb
+E:\ \BARC 10-10\BARC 10-10\BARC\bin\Debug\BARC.exe
+E:\ \BARC 10-10\BARC 10-10\BARC\bin\Debug\BARC.pdb
+E:\ \BARC 10-10\BARC 10-10\BARC\bin\Debug\BARC.xml
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.altaSocios.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Buscar.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Libros.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.DataSocios.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Baja.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Login.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Main.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Socios.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.splash.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Resources.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ \BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Facturacion.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\bin\Debug\BARC.exe.config
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.exe
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.xml
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\bin\Debug\BARC.exe
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\bin\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\bin\Debug\BARC.xml
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Facturacion.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Login.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Main.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.splash.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \Visual Studio\BARC 10-10\BARC 10-10\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\bin\Debug\BARC.exe
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\bin\Debug\BARC.xml
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \Visual Studio\BARC 15-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\bin\Debug\BARC.exe
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\bin\Debug\BARC.xml
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Documento.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+D:\ \Visual Studio\BARC 16-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\bin\Debug\BARC.exe
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\bin\Debug\BARC.xml
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Documento.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+D:\ \Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\bin\Debug\BARC.exe
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\bin\Debug\BARC.xml
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.printPreview.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+D:\Visual Studio\BARC 22-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\bin\Debug\BARC.exe
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\bin\Debug\BARC.xml
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.printPreview.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+D:\ \Visual Studio\BARC 23-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.printPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Lucas\Documents\5to\BARC 24-10 Cerdan\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.printPreview.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\agestion\Desktop\BARC 25-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\bin\Debug\BARC.exe
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\bin\Debug\BARC.xml
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+D:\ \Visual Studio\BARC 29-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Lucas\Documents\5to\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 31-10\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 31-10\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 1-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 3-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Lucas\Documents\5to\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 4-11v1\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+E:\Datos\Colegio\5to 1ra\BARC\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmVerEnvio.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\Lucas\Documents\5to\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 5-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+C:\Users\Lucas\Documents\5to\BARC 7-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 7-11v2\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 8-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.asistEventos.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboAlqPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.Balances.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 8-11 completo\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesDiarios.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboAlqPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Balances.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesDiarios.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboAlqPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Balances.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesDiarios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.asistEventos.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.asistEventos.resources
+C:\Users\Lucas\Documents\5to\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesMensuales.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesMensuales.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresEdicion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Zonas.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RecorridosCorredores.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmABM.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialSelect.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresEditoriales.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresModificacion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.InteresesMod.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.UsuariosMod.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresMod.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ZonasModificacion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosModificacion.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosEjemplaresMod.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AutoresModi.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialesMod.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaBajaPreview.resources
+C:\Users\Usuario\Documents\Colegio\5to 1ra\Sistemas\BARC 9-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AltaSocioConfirmacion.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.asistEventos.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaBajaPreview.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.hojaRutaPreview.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboAlqPreview.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AutoresModi.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresMod.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialesMod.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialSelect.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmABM.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.InteresesMod.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosEjemplaresMod.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosModificacion.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresEditoriales.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresModificacion.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.UsuariosMod.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ZonasModificacion.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Balances.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesDiarios.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesMensuales.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresEdicion.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RecorridosCorredores.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Zonas.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AltaSocioConfirmacion.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\joaco\Desktop\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.asistEventos.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaBajaPreview.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.hojaRutaPreview.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboAlqPreview.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AutoresModi.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresMod.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialesMod.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialSelect.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmABM.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.InteresesMod.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosEjemplaresMod.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosModificacion.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresEditoriales.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresModificacion.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.UsuariosMod.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ZonasModificacion.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Balances.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesDiarios.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesMensuales.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresEdicion.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RecorridosCorredores.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Zonas.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AltaSocioConfirmacion.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacCuotasPreview.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.entradaPreview.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.asistEventos.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaAdmisionPreview.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.entradaPreview.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacCuotasPreview.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaBajaPreview.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.hojaRutaPreview.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboAlqPreview.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AutoresModi.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresMod.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialesMod.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialSelect.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmABM.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.InteresesMod.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosEjemplaresMod.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosModificacion.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresEditoriales.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresModificacion.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.UsuariosMod.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ZonasModificacion.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Balances.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesDiarios.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesMensuales.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresEdicion.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RecorridosCorredores.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Zonas.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AltaSocioConfirmacion.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\joaco\Desktop\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.remitoPreview.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.remitoPreview.resources
+E:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaAdmisionPreview.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.exe
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\bin\Debug\BARC.xml
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.remitoPreview.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.asistEventos.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaAdmisionPreview.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.entradaPreview.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacCuotasPreview.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaBajaPreview.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.hojaRutaPreview.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboAlqPreview.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AutoresModi.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresMod.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialesMod.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialSelect.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmABM.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.InteresesMod.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosEjemplaresMod.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosModificacion.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresEditoriales.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresModificacion.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.UsuariosMod.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ZonasModificacion.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Balances.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesDiarios.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesMensuales.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresEdicion.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RecorridosCorredores.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Zonas.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.AltaSocioConfirmacion.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+D:\SISTEMAS\BARC 10-11\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.remitoPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.asistEventos.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaAdmisionPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.entradaPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacCuotasPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaBajaPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.hojaRutaPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboAlqPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AutoresModi.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresMod.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialesMod.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialSelect.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmABM.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.InteresesMod.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosEjemplaresMod.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosModificacion.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresEditoriales.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresModificacion.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.UsuariosMod.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ZonasModificacion.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Balances.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesDiarios.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesMensuales.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresEdicion.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.RecorridosCorredores.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Zonas.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AltaSocioConfirmacion.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Lucas\Documents\5to\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboGenericoPreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.exe.manifest
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.application
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.exe
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.xml
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.chequePreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboGenericoPreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.remitoPreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.asistEventos.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaAdmisionPreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.entradaPreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacCuotasPreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaBajaPreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.hojaRutaPreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboAlqPreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AutoresModi.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresMod.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialesMod.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialSelect.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmABM.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.InteresesMod.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosEjemplaresMod.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosModificacion.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresEditoriales.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresModificacion.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.UsuariosMod.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ZonasModificacion.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Balances.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesDiarios.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesMensuales.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresEdicion.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.RecorridosCorredores.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Zonas.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AltaSocioConfirmacion.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe.manifest
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.application
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+F:\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.notapedidoPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.chequePreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.notapedidoPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboGenericoPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.remitoPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.asistEventos.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaAdmisionPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.entradaPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacCuotasPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ConstanciaBajaPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.hojaRutaPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ReciboAlqPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AutoresModi.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresMod.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialesMod.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EditorialSelect.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmABM.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.InteresesMod.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosEjemplaresMod.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.LibrosModificacion.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresEditoriales.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ProveedoresModificacion.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.UsuariosMod.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ZonasModificacion.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Balances.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesDiarios.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.BalancesMensuales.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarPago.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CorredoresEdicion.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosActualizar.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EnviosVer.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.RecorridosCorredores.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Zonas.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CrearEvento.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.EventosLista.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEventos.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.RegistrarAsis.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCompEntrada.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerEjemplares.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerNotaPedidos.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.buscarCorredor.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.frmEnvios.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.HojasRuta.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarEjemplar.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.precioUnitario.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ActualizarLibros.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AlquileroRecibo.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CambiarestadoConf.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.credPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.FacturaOrecibo.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.notif.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Cobros.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VerCuotas.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AgregarLibro.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitarCompra.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.SolicitudesEspera.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.AltaSocioConfirmacion.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.altaSocios.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Buscar.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.ComprasSocio.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.CatalogoLibros.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.facremPreview.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Facturacion.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Libros.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.DataSocios.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Baja.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Login.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Main.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Socios.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.splash.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.Resources.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.VentasAlquileres.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.numFactura.resources
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.exe.manifest
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.application
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.exe
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.pdb
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\bin\Debug\BARC.xml
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe.manifest
+C:\Users\Usuario\Downloads\BARC 12-11-para-entregar\Solucion de Visual\BARC\obj\x86\Debug\BARC.application
+C:\Users\Javier Alexis Leone\Desktop\BARC 13-11\Solucion de Visual\BARC\bin\Debug\BARC.exe.config
+C:\Users\Javier Alexis Leone\Desktop\BARC 13-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.exe
+C:\Users\Javier Alexis Leone\Desktop\BARC 13-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.xml
+C:\Users\Javier Alexis Leone\Desktop\BARC 13-11\Solucion de Visual\BARC\obj\x86\Debug\BARC.pdb

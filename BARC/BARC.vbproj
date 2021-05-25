@@ -1,0 +1,881 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BBEF5E9B-8752-494D-AD58-65775FBFDE26}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BARC.My.MyApplication</StartupObject>
+    <RootNamespace>BARC</RootNamespace>
+    <AssemblyName>BARC</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\agestion\Desktop\BARC\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BARC.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BARC.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>barc.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>335DDF9D4116F67A37738FBCABD3000FA0794864</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>BARC_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CLASES\asistEventosDatos.vb" />
+    <Compile Include="CLASES\chequeDatos.vb" />
+    <Compile Include="CLASES\ConstanciaAdmisionDatos.vb" />
+    <Compile Include="CLASES\ConstanciaBajaDatos.vb" />
+    <Compile Include="CLASES\entradaLibros.vb" />
+    <Compile Include="CLASES\entradaLibrosDet.vb" />
+    <Compile Include="CLASES\FacturaCuotas.vb" />
+    <Compile Include="CLASES\FacturaCuotasArt.vb" />
+    <Compile Include="CLASES\hdruta.vb" />
+    <Compile Include="CLASES\hdrutaDetalle.vb" />
+    <Compile Include="CLASES\notaDatos.vb" />
+    <Compile Include="CLASES\notaDetalles.vb" />
+    <Compile Include="CLASES\ReciboAlqArt.vb" />
+    <Compile Include="CLASES\ReciboAlqDatos.vb" />
+    <Compile Include="CLASES\ReciboGenDatos.vb" />
+    <Compile Include="CLASES\REncabezado.vb" />
+    <Compile Include="DOCUMENTOS\Preview\asistEventos.designer.vb">
+      <DependentUpon>asistEventos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\asistEventos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\chequePreview.Designer.vb">
+      <DependentUpon>chequePreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\chequePreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\ConstanciaAdmisionPreview.Designer.vb">
+      <DependentUpon>ConstanciaAdmisionPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\ConstanciaAdmisionPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\ConstanciaBajaPreview.Designer.vb">
+      <DependentUpon>ConstanciaBajaPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\ConstanciaBajaPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\entradaPreview.Designer.vb">
+      <DependentUpon>entradaPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\entradaPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\FacCuotasPreview.Designer.vb">
+      <DependentUpon>FacCuotasPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\FacCuotasPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\hojaRutaPreview.Designer.vb">
+      <DependentUpon>hojaRutaPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\hojaRutaPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\notapedidoPreview.Designer.vb">
+      <DependentUpon>notapedidoPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\notapedidoPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\ReciboAlqPreview.Designer.vb">
+      <DependentUpon>ReciboAlqPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\ReciboAlqPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\ReciboGenericoPreview.Designer.vb">
+      <DependentUpon>ReciboGenericoPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\ReciboGenericoPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\remitoPreview.Designer.vb">
+      <DependentUpon>remitoPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\remitoPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\AutoresModi.Designer.vb">
+      <DependentUpon>AutoresModi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\AutoresModi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\CorredoresMod.Designer.vb">
+      <DependentUpon>CorredoresMod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\CorredoresMod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\EditorialesMod.Designer.vb">
+      <DependentUpon>EditorialesMod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\EditorialesMod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\EditorialSelect.Designer.vb">
+      <DependentUpon>EditorialSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\EditorialSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\frmABM.Designer.vb">
+      <DependentUpon>frmABM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\frmABM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\InteresesMod.Designer.vb">
+      <DependentUpon>InteresesMod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\InteresesMod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\LibrosEjemplaresMod.Designer.vb">
+      <DependentUpon>LibrosEjemplaresMod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\LibrosEjemplaresMod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\LibrosModificacion.Designer.vb">
+      <DependentUpon>LibrosModificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\LibrosModificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\ProveedoresEditoriales.Designer.vb">
+      <DependentUpon>ProveedoresEditoriales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\ProveedoresEditoriales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\ProveedoresModificacion.Designer.vb">
+      <DependentUpon>ProveedoresModificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\ProveedoresModificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\UsuariosMod.Designer.vb">
+      <DependentUpon>UsuariosMod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\UsuariosMod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\ZonasModificacion.Designer.vb">
+      <DependentUpon>ZonasModificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\ABM\ZonasModificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Balances\Balances.Designer.vb">
+      <DependentUpon>Balances.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Balances\Balances.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Balances\BalancesDiarios.Designer.vb">
+      <DependentUpon>BalancesDiarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Balances\BalancesDiarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Balances\BalancesMensuales.Designer.vb">
+      <DependentUpon>BalancesMensuales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Balances\BalancesMensuales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\RegistrarPago.Designer.vb">
+      <DependentUpon>RegistrarPago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\RegistrarPago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\CorredoresEdicion.Designer.vb">
+      <DependentUpon>CorredoresEdicion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\CorredoresEdicion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\EnviosActualizar.Designer.vb">
+      <DependentUpon>EnviosActualizar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\EnviosActualizar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\EnviosVer.Designer.vb">
+      <DependentUpon>EnviosVer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\EnviosVer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\RecorridosCorredores.Designer.vb">
+      <DependentUpon>RecorridosCorredores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\RecorridosCorredores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\Zonas.Designer.vb">
+      <DependentUpon>Zonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\Zonas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Eventos\CrearEvento.Designer.vb">
+      <DependentUpon>CrearEvento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Eventos\CrearEvento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Eventos\EventosLista.Designer.vb">
+      <DependentUpon>EventosLista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Eventos\EventosLista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Eventos\frmEventos.Designer.vb">
+      <DependentUpon>frmEventos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Eventos\frmEventos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Eventos\RegistrarAsis.Designer.vb">
+      <DependentUpon>RegistrarAsis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Eventos\RegistrarAsis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\VerCompEntrada.Designer.vb">
+      <DependentUpon>VerCompEntrada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\VerCompEntrada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\VerEjemplares.Designer.vb">
+      <DependentUpon>VerEjemplares.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\VerEjemplares.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\VerNotaPedidos.Designer.vb">
+      <DependentUpon>VerNotaPedidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\VerNotaPedidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Core\buscarCorredor.designer.vb">
+      <DependentUpon>buscarCorredor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Core\buscarCorredor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\frmEnvios.designer.vb">
+      <DependentUpon>frmEnvios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\frmEnvios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\HojasRuta.designer.vb">
+      <DependentUpon>HojasRuta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Envios\HojasRuta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\AgregarEjemplar.Designer.vb">
+      <DependentUpon>AgregarEjemplar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\AgregarEjemplar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\AgregarLibro.Designer.vb">
+      <DependentUpon>AgregarLibro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\AgregarLibro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\ActualizarLibros.designer.vb">
+      <DependentUpon>ActualizarLibros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\ActualizarLibros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\AlquileroRecibo.Designer.vb">
+      <DependentUpon>AlquileroRecibo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\AlquileroRecibo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\CambiarestadoConf.Designer.vb">
+      <DependentUpon>CambiarestadoConf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\CambiarestadoConf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\FacturaOrecibo.Designer.vb">
+      <DependentUpon>FacturaOrecibo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\FacturaOrecibo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\Cobros.Designer.vb">
+      <DependentUpon>Cobros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\Cobros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\credPreview.Designer.vb">
+      <DependentUpon>credPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\credPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLASES\FArticulo.vb" />
+    <Compile Include="CLASES\SocioDatos.vb" />
+    <Compile Include="FORMULARIOS\Core\notif.Designer.vb">
+      <DependentUpon>notif.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Core\notif.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Socios\AltaSocioConfirmacion.Designer.vb">
+      <DependentUpon>AltaSocioConfirmacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Socios\AltaSocioConfirmacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Socios\ComprasSocio.Designer.vb">
+      <DependentUpon>ComprasSocio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Socios\ComprasSocio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Socios\altaSocios.Designer.vb">
+      <DependentUpon>altaSocios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Socios\altaSocios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="FORMULARIOS\Core\Buscar.Designer.vb">
+      <DependentUpon>Buscar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Core\Buscar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLASES\FEncabezado.vb" />
+    <Compile Include="FORMULARIOS\Secciones\Ventas-Alquileres\CatalogoLibros.Designer.vb">
+      <DependentUpon>CatalogoLibros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Ventas-Alquileres\CatalogoLibros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\facremPreview.Designer.vb">
+      <DependentUpon>facremPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DOCUMENTOS\Preview\facremPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Ventas-Alquileres\Facturacion.Designer.vb">
+      <DependentUpon>Facturacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Ventas-Alquileres\Facturacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\Libros.Designer.vb">
+      <DependentUpon>Libros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\Libros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Socios\dataSocios.Designer.vb">
+      <DependentUpon>dataSocios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Socios\dataSocios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Socios\Baja.Designer.vb">
+      <DependentUpon>Baja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Socios\Baja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Core\Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Core\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Core\Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Core\Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Core\Modulo.vb" />
+    <Compile Include="FORMULARIOS\Secciones\Socios\Socios.Designer.vb">
+      <DependentUpon>Socios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Socios\Socios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Core\Splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Core\Splash.Designer.vb">
+      <DependentUpon>Splash.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Ventas-Alquileres\VentasAlquileres.Designer.vb">
+      <DependentUpon>VentasAlquileres.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Ventas-Alquileres\VentasAlquileres.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\SolicitarCompra.Designer.vb">
+      <DependentUpon>SolicitarCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\SolicitarCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\SolicitudesEspera.Designer.vb">
+      <DependentUpon>SolicitudesEspera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\SolicitudesEspera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\VerCuotas.Designer.vb">
+      <DependentUpon>VerCuotas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Cobros\VerCuotas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\numFactura.Designer.vb">
+      <DependentUpon>numFactura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\numFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\precioUnitario.Designer.vb">
+      <DependentUpon>precioUnitario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\Secciones\Libros\precioUnitario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\chequePreview.resx">
+      <DependentUpon>chequePreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\notapedidoPreview.resx">
+      <DependentUpon>notapedidoPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\ReciboGenericoPreview.resx">
+      <DependentUpon>ReciboGenericoPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\remitoPreview.resx">
+      <DependentUpon>remitoPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\asistEventos.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\cheque.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\compEntradaLibros.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\ConstanciaAdmision.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\ConstanciaBajaDoc.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\CredSocio.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\FacRem.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\FacturaCuotas.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\hdruta.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\Preview\asistEventos.resx">
+      <DependentUpon>asistEventos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\ConstanciaAdmisionPreview.resx">
+      <DependentUpon>ConstanciaAdmisionPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\entradaPreview.resx">
+      <DependentUpon>entradaPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\FacCuotasPreview.resx">
+      <DependentUpon>FacCuotasPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\ConstanciaBajaPreview.resx">
+      <DependentUpon>ConstanciaBajaPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\hojaRutaPreview.resx">
+      <DependentUpon>hojaRutaPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\ReciboAlqPreview.resx">
+      <DependentUpon>ReciboAlqPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\notaPedido.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\ReciboAlq.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\ReciboGenerico.rdlc" />
+    <EmbeddedResource Include="DOCUMENTOS\RDLC\Remito.rdlc" />
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\AutoresModi.resx">
+      <DependentUpon>AutoresModi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\CorredoresMod.resx">
+      <DependentUpon>CorredoresMod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\EditorialesMod.resx">
+      <DependentUpon>EditorialesMod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\EditorialSelect.resx">
+      <DependentUpon>EditorialSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\frmABM.resx">
+      <DependentUpon>frmABM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\InteresesMod.resx">
+      <DependentUpon>InteresesMod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\LibrosEjemplaresMod.resx">
+      <DependentUpon>LibrosEjemplaresMod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\LibrosModificacion.resx">
+      <DependentUpon>LibrosModificacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\ProveedoresEditoriales.resx">
+      <DependentUpon>ProveedoresEditoriales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\ProveedoresModificacion.resx">
+      <DependentUpon>ProveedoresModificacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\UsuariosMod.resx">
+      <DependentUpon>UsuariosMod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\ABM\ZonasModificacion.resx">
+      <DependentUpon>ZonasModificacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Balances\Balances.resx">
+      <DependentUpon>Balances.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Balances\BalancesDiarios.resx">
+      <DependentUpon>BalancesDiarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Balances\BalancesMensuales.resx">
+      <DependentUpon>BalancesMensuales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Cobros\RegistrarPago.resx">
+      <DependentUpon>RegistrarPago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Envios\CorredoresEdicion.resx">
+      <DependentUpon>CorredoresEdicion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Envios\EnviosActualizar.resx">
+      <DependentUpon>EnviosActualizar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Envios\EnviosVer.resx">
+      <DependentUpon>EnviosVer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Envios\RecorridosCorredores.resx">
+      <DependentUpon>RecorridosCorredores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Envios\Zonas.resx">
+      <DependentUpon>Zonas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Eventos\CrearEvento.resx">
+      <DependentUpon>CrearEvento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Eventos\EventosLista.resx">
+      <DependentUpon>EventosLista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Eventos\frmEventos.resx">
+      <DependentUpon>frmEventos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Eventos\RegistrarAsis.resx">
+      <DependentUpon>RegistrarAsis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Libros\VerCompEntrada.resx">
+      <DependentUpon>VerCompEntrada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Libros\VerEjemplares.resx">
+      <DependentUpon>VerEjemplares.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Libros\VerNotaPedidos.resx">
+      <DependentUpon>VerNotaPedidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Core\buscarCorredor.resx">
+      <DependentUpon>buscarCorredor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Envios\frmEnvios.resx">
+      <DependentUpon>frmEnvios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Envios\HojasRuta.resx">
+      <DependentUpon>HojasRuta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Libros\AgregarEjemplar.resx">
+      <DependentUpon>AgregarEjemplar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Libros\precioUnitario.resx">
+      <DependentUpon>precioUnitario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Libros\ActualizarLibros.resx">
+      <DependentUpon>ActualizarLibros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Cobros\AlquileroRecibo.resx">
+      <DependentUpon>AlquileroRecibo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Cobros\CambiarestadoConf.resx">
+      <DependentUpon>CambiarestadoConf.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\credPreview.resx">
+      <DependentUpon>credPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Cobros\FacturaOrecibo.resx">
+      <DependentUpon>FacturaOrecibo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Core\notif.resx">
+      <DependentUpon>notif.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Cobros\Cobros.resx">
+      <DependentUpon>Cobros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Cobros\VerCuotas.resx">
+      <DependentUpon>VerCuotas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Libros\AgregarLibro.resx">
+      <DependentUpon>AgregarLibro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Libros\SolicitarCompra.resx">
+      <DependentUpon>SolicitarCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Libros\SolicitudesEspera.resx">
+      <DependentUpon>SolicitudesEspera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Socios\AltaSocioConfirmacion.resx">
+      <DependentUpon>AltaSocioConfirmacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Socios\altaSocios.resx">
+      <DependentUpon>altaSocios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Core\Buscar.resx">
+      <DependentUpon>Buscar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Socios\ComprasSocio.resx">
+      <DependentUpon>ComprasSocio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Ventas-Alquileres\CatalogoLibros.resx">
+      <DependentUpon>CatalogoLibros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCUMENTOS\Preview\facremPreview.resx">
+      <DependentUpon>facremPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Ventas-Alquileres\Facturacion.resx">
+      <DependentUpon>Facturacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Libros\Libros.resx">
+      <DependentUpon>Libros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Socios\dataSocios.resx">
+      <DependentUpon>dataSocios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Socios\Baja.resx">
+      <DependentUpon>Baja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Core\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Core\Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Socios\Socios.resx">
+      <DependentUpon>Socios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Core\Splash.resx">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Ventas-Alquileres\VentasAlquileres.resx">
+      <DependentUpon>VentasAlquileres.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\Secciones\Libros\numFactura.resx">
+      <DependentUpon>numFactura.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="BARC_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\chequeDatos.datasource" />
+    <None Include="My Project\DataSources\ConstanciaBajaDatos.datasource" />
+    <None Include="My Project\DataSources\entradaLibros.datasource" />
+    <None Include="My Project\DataSources\entradaLibrosDet.datasource" />
+    <None Include="My Project\DataSources\FacturaCuotas.datasource" />
+    <None Include="My Project\DataSources\FacturaCuotasArt.datasource" />
+    <None Include="My Project\DataSources\hdruta.datasource" />
+    <None Include="My Project\DataSources\hdrutaDetalle.datasource" />
+    <None Include="My Project\DataSources\notaDatos.datasource" />
+    <None Include="My Project\DataSources\notaDetalles.datasource" />
+    <None Include="My Project\DataSources\RArticulo.datasource" />
+    <None Include="My Project\DataSources\ReciboAlqArt.datasource" />
+    <None Include="My Project\DataSources\ReciboAlqDatos.datasource" />
+    <None Include="My Project\DataSources\RemArticulo.datasource" />
+    <None Include="My Project\DataSources\REncabezado.datasource" />
+    <None Include="My Project\DataSources\SocioDatos.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barc-50%25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="barc.ico" />
+    <Content Include="Resources\barc.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
